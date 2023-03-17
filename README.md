@@ -17,7 +17,7 @@ To verify that Shopify CLI is installed properly, run the following command:\
 
 ### Installing theme on local machine
 Run the following command to clone a Git repository to your local machine to use as the starting point for building a theme:\
-`shopify theme init [name] --clone-url [repository]`\
+`shopify theme init [name] --clone-url [repository]`
 
 `name` - The name that you want to give your theme. Cloned files are stored in a folder with this name.\
 `repository` - Repository URL.
